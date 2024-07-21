@@ -7,6 +7,7 @@ MacOS 的钉钉防撤回脚本
 # Download APP
 官方下载地址:
 [https://dtapp-pub.dingtalk.com/dingtalk-desktop/mac_dmg/Release/M1-Beta/DingTalk_v7.0.12.5_28488321_arm64.dmg](https://dtapp-pub.dingtalk.com/dingtalk-desktop/mac_dmg/Release/M1-Beta/DingTalk_v7.0.12.5_28488321_arm64.dmg)
+[https://dtapp-pub.dingtalk.com/dingtalk-desktop/mac_dmg/Release/M1-Beta/DingTalk_v7.6.0_38510687_universal.dmg](https://dtapp-pub.dingtalk.com/dingtalk-desktop/mac_dmg/Release/M1-Beta/DingTalk_v7.6.0_38510687_universal.dmg)
 
 # How to use
 
