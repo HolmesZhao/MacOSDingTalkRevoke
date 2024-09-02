@@ -21,7 +21,11 @@ MacOS 的钉钉防撤回脚本
 # How to use
 
 ```python
+// 7.0.12
 python3 dingtalkrevoke.py
+
+// 最新的
+python3 dingtalkrevoke7_6_0.py
 ```
 
 # 感谢
