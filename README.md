@@ -24,7 +24,7 @@ MacOS 的钉钉防撤回脚本
 // 7.0.12
 python3 dingtalkrevoke.py
 
-// 最新的
+// 最新的, 所有版本都有在, 根据需要的换变量就好
 python3 dingtalkrevoke7_6_0.py
 ```
 
